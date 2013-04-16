@@ -171,3 +171,9 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
+
+http_example.xcodeproj
+addons.make
+openFrameworks-Info.plist
+Project.xcconfig
+http_exampleDebug.app
